@@ -1,9 +1,9 @@
 <p align="center" style="background-color:#f0f0f0; padding:15px; border-radius:10px;">
-  <img src="assets/loggakloss.png" alt="C Bygg AB logga" width="200"/>
+  <img src="assets/loggakloss2.png" alt="C Bygg AB logga" width="200"/>
 </p>
 
 <p align="center">
-  <img src="assets/loggaman.png" alt="C Bygg AB figur" width="120"/>
+  <img src="assets/loggaman2.png" alt="C Bygg AB figur" width="120"/>
 </p>
 # 🧱 C Bygg AB – LEGO-stil byggfirma
 
