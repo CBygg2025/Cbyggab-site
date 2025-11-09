@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Referenser – C Bygg AB</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header>
+    <div class="container nav">
+      <a href="/" class="nav-logo" aria-label="C Bygg AB">
+        <img src="assets/loggakloss.png" alt="C Bygg AB" />
+      </a>
+      <nav>
+        <a class="btn secondary" href="services.html">Tjänster</a>
+        <a class="btn secondary" href="about.html">Om oss</a>
+        <a class="btn" href="offert.html">Begär offert</a>
+      </nav>
+    </div>
+  </header>
+  <main class="container section">
+    <h1>Referenser</h1>
+    <p>Vi låter bilderna tala. Här är några uppdrag vi är extra stolta över.</p>
+    <div class="illustrations">
+      {"".join([f'<img src="assets/{name}" alt="Projekt" loading="lazy"/>' for name in copied])}
+    </div>
+  </main>
+  <footer class="footer"><div class="container">C Bygg AB – Göteborg</div></footer>
+</body>
+</html>

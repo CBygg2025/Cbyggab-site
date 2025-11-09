@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Begär offert – C Bygg AB</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header>
+    <div class="container nav">
+      <a href="/" class="nav-logo" aria-label="C Bygg AB">
+        <img src="assets/loggakloss.png" alt="C Bygg AB" />
+      </a>
+      <nav>
+        <a class="btn secondary" href="services.html">Tjänster</a>
+        <a class="btn secondary" href="about.html">Om oss</a>
+        <a class="btn" href="offert.html">Begär offert</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container section">
+    <h1>Begär offert – svar inom 48 timmar</h1>
+    <p>Fyll i formuläret så återkommer vi med prisbild och preliminär tidplan.</p>
+    <form name="offert" method="POST" data-netlify="true">
+      <input type="hidden" name="form-name" value="offert">
+      <div class="service-list">
+        <label> Namn<br><input required name="namn" type="text"></label>
+        <label> E-post<br><input required name="email" type="email"></label>
+        <label> Telefon<br><input required name="telefon" type="tel"></label>
+        <label> Adress/Ort<br><input name="adress" type="text"></label>
+        <label> Tjänst/område<br>
+          <select name="tjanst">
+            <option>Tak & fasad</option><option>Utbyggnad/ombyggnad</option>
+            <option>Altan/uteplats</option><option>Kök/snickerier</option>
+            <option>Garage/förråd</option><option>Vattenskada</option>
+          </select>
+        </label>
+        <label style="grid-column:1/-1"> Kort beskrivning<br>
+          <textarea name="beskrivning" rows="6" placeholder="Mål, budget, tidsram…"></textarea>
+        </label>
+      </div>
+      <div style="margin-top:14px"><button class="btn" type="submit">Skicka</button></div>
+    </form>
+  </main>
+  <footer class="footer"><div class="container">C Bygg AB – Göteborg</div></footer>
+</body>
+</html>
