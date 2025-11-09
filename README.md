@@ -1,4 +1,10 @@
+<p align="center" style="background-color:#f0f0f0; padding:15px; border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/CBygg2025/Cbyggab-site/main/assets/loggakloss.png?raw=true" alt="C Bygg AB logga" width="200">
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CBygg2025/Cbyggab-site/main/assets/loggaman.png?raw=true" alt="C Bygg AB figur" width="120">
+</p>
 # 🧱 C Bygg AB – LEGO-stil byggfirma
 
 En kreativ och modern webbplats för **C Bygg AB**, en byggfirma i Göteborg som erbjuder allt inom:
