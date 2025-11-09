@@ -3,7 +3,7 @@
 
 En kreativ och modern webbplats för **C Bygg AB**, en byggfirma i Göteborg som erbjuder allt inom:
 - Tak, utbyggnad och trädäck  
-- Garage, renovering och vattenskador  
+- Garage, renovering och vattenskador 
 - Helhetslösningar för både privatpersoner och företag  
 
 Webbplatsen är designad i en unik **LEGO-stil** för att skapa en lekfull men professionell känsla.  
