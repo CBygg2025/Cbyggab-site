@@ -1,9 +1,9 @@
 <p align="center" style="background-color:#f0f0f0; padding:15px; border-radius:10px;">
-  <img src="https://github.com/CBygg2025/Cbyggab-site/raw/main/assets/loggakloss.png" alt="C Bygg AB logga" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/CBygg2025/Cbyggab-site/assets/loggakloss.png" alt="C Bygg AB logga" width="200">
 </p>
 
 <p align="center">
-  <img src="https://github.com/CBygg2025/Cbyggab-site/raw/main/assets/loggaman.png" alt="C Bygg AB figur" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/CBygg2025/Cbyggab-site/assets/loggaman.png" alt="C Bygg AB figur" width="120">
 </p>
 # 🧱 C Bygg AB – LEGO-stil byggfirma
 
